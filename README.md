@@ -2,6 +2,8 @@
 
 [kaf-cli](https://github.com/ystyle/kaf-cli)（TXT → EPUB/AZW3/MOBI 命令行工具）的桌面图形界面。Python + Tkinter，全程鼠标操作，仿 EasyPub 风格。
 
+![kaf-cli-gui 界面截图](screenshot.png)
+
 ## 功能
 - **① 文件**：选 TXT、书名/作者、输出名、格式（all/epub/azw3/mobi）、打开输出目录
 - **② 章节识别**：章节正则 / 卷规则 / 排除规则 / 未知章节名，全部预填 kaf-cli 默认值，留空即走内置默认
